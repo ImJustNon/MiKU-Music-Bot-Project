@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # _✨ M i K U 🎧#1031  Music Bot Source Code_
 
 
@@ -54,10 +54,4 @@
 **สร้างบอท**
 [Discord DEVELOPER PORTAL](https://discord.com/developers)
 =======
-# ✨ M i K U 🎧#1031 Music Bot Source Code
 
-# How To Hosting Your Own
-
-- dasd
-
->>>>>>> 82bcb46110f52803adfa7923eb13410602e05d90
