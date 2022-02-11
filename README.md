@@ -45,7 +45,7 @@
 6) พิมพ์คำสั่ง help ได้เลย!!
 
 
-**NOTE** : ถ้าใช้ ` npm i ` ไม่ได้ให้เข้าไปโหลดในลิ้งนี้ [node-module download](https://drive.google.com/drive/folders/1JsMj?usp=sharing) เเละนำไฟล์ "node-module" ไปวาง
+**NOTE** : ถ้าใช้ ` npm i ` ไม่ได้ให้เข้าไปโหลดในลิ้งนี้ [node-module download](https://drive.google.com/drive/folders/1POrt9Owsp2yrt9wj0QnWCfjCs-wbZVqT?usp=sharing) เเละนำไฟล์ "node-module" ไปวาง
 
 (ไม่สมบูรณ์นะ)
 สำหรับถ้าจะเอาไปใช้ก่อนอะนะ
