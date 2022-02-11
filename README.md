@@ -53,5 +53,5 @@
 
 **สร้างบอท**
 [Discord DEVELOPER PORTAL](https://discord.com/developers)
-=======
+
 
