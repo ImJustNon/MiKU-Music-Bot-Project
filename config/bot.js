@@ -31,7 +31,7 @@ module.exports = {
         activity: 'TYPE | m!help |',
         botname: 'มิกุ',
 		username: '✨ M i K U 🎧#1031',
-		clientId: '884786761635627150',
+		clientId: '',
 		permission: '140164582464',
     },
 	
